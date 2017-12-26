@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Novice's Programming Blog 
 header-img: img/home-bg.png
 email: rjspitkovsky@gmail.com
 copyright_name: rjspitkovsky
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Live vicariously through me on my journey to become a programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rjspitkovsky
