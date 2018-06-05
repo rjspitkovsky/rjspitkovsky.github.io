@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Important Basics of JS: Variables, Scope, & Hoisting "
-date:       2018-06-05 19:07:10 +0000
+date:       2018-06-05 15:07:11 -0400
 permalink:  important_basics_of_js_variables_scope_and_hoisting
 ---
 
