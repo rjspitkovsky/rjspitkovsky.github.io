@@ -31,9 +31,12 @@ sendStatusToTimer = () => {
     var myInterval = setInterval(startTimer, 1000)
 	```
 	
+	
 	When the timer is on, another function is triggered on the click of the button. This adds the current value of ```this.state.seconds``` to ```this.state.clickedSeconds```,  which is an array that collects the split times. This array is then passed to the UnorderedList component. The UL component is tasked with rendering each split time as list items in the ul as well as giving each one the desired onClick functionality. The first thing a clicked split time should do is get highlighted-- I simply added a class to the event.target (which is the <li>{split time}</li> that's been clicked) that changes the background color. I then collected all of the list items, iterated through them (using Array.prototype.map.call()) and then removed the list items whose innerText was higher than the innerText of the event.target. Then I called a passed down function from the Timer component whose responsibility is to change ```this.state.status``` of the Timer component back to "off". This clears the interval that is in charge of our timer. 
 	
 	The click event handler that all dynamically created li's have. 
+	
+	
 	```
 	  resetTimer = (event) => {
     event.preventDefault()
