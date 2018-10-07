@@ -1,0 +1,19 @@
+---
+layout: post
+title:      "Prepping for the Interview"
+date:       2018-10-07 15:51:39 +0000
+permalink:  prepping_for_the_interview
+---
+
+
+The interview process is not easy nor fun but it is a necessary part of your career so you may as well have a gameplan for how you are going to do it. Now that I have had a share of interviews to begin my career in tech, I'd like to take this opportunity to jot down a couple of the things I do to get my prepared face on: this is more for me than it is for you, but if you stumble along this and are looking for interview advice then it's a win-win. 
+
+The first thing I do when an interview has been confirmed is research who I will be interviewing with. Getting an idea of the interviewers background can go a long way-- if you have something in common (for instance, maybe your interviewer is also a graduate of a coding bootcamp?) then plan to acknowledge that in the interview. I think that it will help relieve the tension and make it more into a conversation. That's my goal as an interviewee. No matter how much prep I do, I am ineviatably going to be nervous, so I want to minimize that by treating it as a conversation between friends as much as possible. 
+
+The next I do, is go back and re-review the company. Two things here: I want to re-affirm why I applied to the company--what drew me in? What about it I can say I am passionate about? What technologies do they use? What features of myself do I need to emphasis to be the best match for this company? The second thing, is to jot down questions about the company-- there WILL be an opportunity given to ask questions, and if you do not take that opportunity that will be seriously frowned upon. I prepare questions to ask for every interview. I generally prepare more questions than I have time for-- I always ask if I can reach out with any further questions. Obviously, I'll send a thank you e-mail but it still affirms that the interviewer will hear from me. 
+
+The third I do is to review what I call the static-y attributes. The 'elevator-pitch' that I use as the template for my answer whenever I am asked "what's my story?" or "how did I find myself in tech?" or any of these general conversation-starter questions. I tweak this pitch based on my company research but the general gist of it remains the same. I also review my projects that I've built, what they do, why I made the decisions I made, and any other relevant information about them. Technical projects may or may not come up in the interview depending on if you're speaking with someone from HR or someone from the dev team at the company. I make sure I have an idea of what I want to talk about anyway. In my experience the initial technical questions are pretty open-ended: "what is a project you're proud of? what is a challenge you've faced when building something?" You don't want your mind to go blank at that point. 
+
+After I have done that prep work and have solid ideas of where I want to go with these general interview questions the last thing I do is prep myself mentally. Interviews can be stressful. I remind myself to keep it conversational, keep the energy high, and find a way to demonstrate my passion: for coding in general, the coding that I've done, the company I am interviewing with. I have been told on multiple occassions that the passion I display is not as common as you'd think amongst candidates. So make sure they know you love what you're doing and you'd love to do it for them. After a couple of deep breathes, I'm ready. Then I say "Rich, do your best. That's all you can do." And then I pick up the phone, or enter the video chat area, or enter the room. 
+
+I know that this all pretty much obvious tips, but it is helpful for me to go over them and type them out. Hopefully it's helpful for you too. 
